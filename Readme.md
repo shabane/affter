@@ -37,3 +37,7 @@
 
 #### [bpytop](https://github.com/aristocratos/bpytop)
 > bpython is tool to monitor the proccess of that is run in your pc. this tool is many many better than htop and top
+
+#### [vim](https://en.wikipedia.org/wiki/Vim_(text_editor))
+> vim is one of the best text editor in the world
+ 

@@ -12,4 +12,4 @@ sudo apt install pv
 sudo apt install locate
 sudo apt install vim
 pip3 install howdoi
-pip3 install bpytop3
+pip3 install bpytop

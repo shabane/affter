@@ -10,5 +10,6 @@ sudo apt install tmux
 sudo apt install qbittorrent
 sudo apt install pv
 sudo apt install locate
+sudo apt install vim
 pip3 install howdoi
 pip3 install bpytop3

@@ -1,6 +1,7 @@
-#affter
+# affter
 
-_whene i install a distro on my machine, allways there are a lots of package that i need to install on it. so i decided to write a script to install all packages that i need._
+### descrioption:
+#### _whene i install a distro on my machine, allways there are a lots of package that i need to install on it. so i decided to write a script to install all packages that i need._
 
 ### how to use:
 ``` sudo ./affter.sh ```

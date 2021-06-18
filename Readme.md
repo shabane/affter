@@ -40,4 +40,6 @@
 
 #### [vim](https://en.wikipedia.org/wiki/Vim_(text_editor))
 > vim is one of the best text editor in the world
- 
+
+#### net-tools
+> net-tools is a necessary tool to work with network interface 

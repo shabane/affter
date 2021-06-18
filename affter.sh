@@ -11,5 +11,6 @@ sudo apt install qbittorrent
 sudo apt install pv
 sudo apt install locate
 sudo apt install vim
+sudo apt install net-tools
 pip3 install howdoi
 pip3 install bpytop

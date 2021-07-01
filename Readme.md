@@ -43,3 +43,6 @@
 
 #### net-tools
 > net-tools is a necessary tool to work with network interface 
+
+#### whois
+> client for the whois directory service

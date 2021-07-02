@@ -13,5 +13,6 @@ sudo apt install locate
 sudo apt install vim
 sudo apt install net-tools
 sudo apt install whois
+sudo apt install traceroute
 pip3 install howdoi
 pip3 install bpytop

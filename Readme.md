@@ -46,3 +46,6 @@
 
 #### whois
 > client for the whois directory service
+
+#### traceroute
+> print the route packets trace to network host

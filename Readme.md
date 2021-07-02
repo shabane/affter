@@ -52,3 +52,6 @@
 
 #### [batcat](https://github.com/sharkdp/bat)
 > a cat clone with syntax highlighting and Git integration.
+
+#### [stacer](https://oguzhaninan.github.io/Stacer-Web/)
+> Linux System Optimizer & Monitoring

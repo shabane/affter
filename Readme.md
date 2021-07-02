@@ -49,3 +49,6 @@
 
 #### traceroute
 > print the route packets trace to network host
+
+#### [batcat](https://github.com/sharkdp/bat)
+> a cat clone with syntax highlighting and Git integration.

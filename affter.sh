@@ -16,5 +16,6 @@ sudo apt install whois
 sudo apt install traceroute
 sudo apt install bat
 sudo apt install stacer
+sudo apt install iftop
 pip3 install howdoi
 pip3 install bpytop

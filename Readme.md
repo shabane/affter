@@ -58,3 +58,6 @@
 
 #### iftop
 > a display bandwidth usage on an interface by host
+
+#### 7z
+> A file archiver with high compression ratio format

@@ -1,4 +1,5 @@
 #!/bin/bash
+
 sudo apt update
 sudo apt upgrade
 sudo apt dist-upgrade
@@ -17,5 +18,7 @@ sudo apt install traceroute
 sudo apt install bat
 sudo apt install stacer
 sudo apt install iftop
+sudo apt install p7zip-full
+
 pip3 install howdoi
 pip3 install bpytop

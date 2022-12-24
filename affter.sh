@@ -1,24 +1,7 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 sudo apt update
-sudo apt upgrade
-sudo apt dist-upgrade
-sudo apt install fish
-sudo apt install vlc
-sudo apt install git
-sudo apt install pip3
-sudo apt install tmux
-sudo apt install qbittorrent
-sudo apt install pv
-sudo apt install locate
-sudo apt install vim
-sudo apt install net-tools
-sudo apt install whois
-sudo apt install traceroute
-sudo apt install bat
-sudo apt install stacer
-sudo apt install iftop
-sudo apt install p7zip-full
+sudo apt install fish vlc git python3-pip tmux terminator qbittorrent pv locate vim net-tools whois traceroute iftop b7zipfull -y
 
 pip3 install howdoi
 pip3 install bpytop
